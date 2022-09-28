@@ -19,4 +19,4 @@ if __name__ == '__main__':
         [4, 5, 6],
         [7, 8, 9]
     ])
-    print(s) 
+    print(s)
