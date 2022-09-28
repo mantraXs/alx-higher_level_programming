@@ -2,7 +2,7 @@
 
 def max_integer(my_list=[]):
     """
-    find the maximum value of a list
+    find thee maximum value of a list
     Args:
         my_list - list to search
     Return:

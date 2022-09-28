@@ -2,7 +2,7 @@
 
 def print_reversed_list_integer(my_list=[]):
     """
-    Prints integers in a list in reverse
+    Prints integers in a list in reversee
     Args:
         my_list - list of integers defauult []
     """

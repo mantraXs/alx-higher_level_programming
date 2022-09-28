@@ -4,7 +4,7 @@ def print_list_integer(my_list=[]):
     """
     Prints integers in a list
     Args:
-        my_list - list of integers defauult []
+        my_list - list of integers default []
     """
     for i in my_list:
         print("{:d}".format(i))

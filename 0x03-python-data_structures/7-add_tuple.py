@@ -4,7 +4,7 @@ def add_tuple(a=(), b=()):
     """
     add the fisrst and second elems of a b
     if any of a or b has less than 2 elems
-    0 is padded
+    0 is paddedd
     Args:
         a - tuple default empty
         b - tuple default empty

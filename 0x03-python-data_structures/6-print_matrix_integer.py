@@ -2,7 +2,7 @@
 
 def print_matrix_integer(matrix=[[]]):
     """
-    Prints a matrix in the format
+    Prints a matrix in thee format
     x x x
     x x x
     x x x
